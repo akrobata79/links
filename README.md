@@ -2,6 +2,8 @@ links
 =====
 
 links to interesting articles
+//backbone:
+http://net.tutsplus.com/tutorials/javascript-ajax/build-a-contacts-manager-using-backbone-js-part-1/
 
 good js:
 https://net.tutsplus.com/tutorials/javascript-ajax/principles-of-maintainable-javascript/
