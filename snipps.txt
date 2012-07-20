@@ -1,0 +1,39 @@
+snipps
+
+//    $.getJSON('jSon2.json', function(data) {
+//        var items = [];
+//
+//        $.each(data, function(key, val) {
+//            items.push('<li id="' + key + '">' + val + '</li>');
+//        });
+//        console.log(items);
+//
+//        $('<ul/>', {
+//            'class': 'my-new-list',
+//            html: items.join('')
+//        }).appendTo('body');
+//
+//    });
+
+    // Assign handlers immediately after making the request,
+// and remember the jqxhr object for this request
+//    var jqxhr = $.getJSON("jSon2.json?callback=?", function(data) {
+//        alert("success",data);
+//    })
+//        .success(function() { alert("second success"); })
+//        .error(function() { alert("error"); })
+//        .complete(function() { alert("complete"); });
+//
+//    jqxhr.complete(function(){ alert("second complete"); });
+
+
+//    $.ajax({
+//        url: 'http://akrobata79.com/vindico/937/jSon2.json',
+//        crossDomain:true,
+//        success: function(data) {
+//         //   $('.result').html(data);
+//
+//
+//            console.log("data",data);
+//        }
+//    });

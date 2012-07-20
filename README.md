@@ -26,6 +26,7 @@ http://net.tutsplus.com/tutorials/html-css-techniques/sass-vs-less-vs-stylus-a-p
 http://net.tutsplus.com/articles/nettuts-quiz-10-basic-css3-techniques/
 http://net.tutsplus.com/tutorials/html-css-techniques/say-hello-to-css3-filters/
 http://net.tutsplus.com/tutorials/html-css-techniques/create-a-sticky-note-effect-in-5-easy-steps-with-css3-and-html5/
+http://css-tricks.com/
 
 //templating
 http://handlebarsjs.com/
@@ -37,3 +38,7 @@ https://developers.google.com/webfonts/docs/webfont_loader
 
 //jQuery
 http://net.tutsplus.com/tutorials/javascript-ajax/creating-a-windows-like-interface-with-jquery-ui/
+
+backbone:
+http://recipeswithbackbone.com/toc.html
+best: http://backbonetraining.net/resources
